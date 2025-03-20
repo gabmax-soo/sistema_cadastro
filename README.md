@@ -1,1 +1,1 @@
-Projeto de sistema de cadastro de pessoas
+Projeto de sistema de cadastro de produtoa
