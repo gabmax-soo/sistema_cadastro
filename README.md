@@ -1,1 +1,1 @@
-Projeto de sistema de cadastro de produtoa
+Projeto de sistema de cadastro de produtos para treinar conhecimentos de Java.
