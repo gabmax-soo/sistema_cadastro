@@ -10,7 +10,7 @@ utilizado um construtor public, depois utilizei de métodos Get para retornar o 
 na última linha um toString para retornar uma mensagem sobre as informações do produto.
 
 Na classe Estoque utilizei um ArrayList que vai listar obejtos do tipo Produto para listar os produtos,
-nisso foi utilizado de métodosdo tipo void com parâmetros para adicionar,mostrar,buscar e
+nisso foi utilizado de métodos do tipo void com parâmetros para adicionar,mostrar,buscar e
 remover os produtos da lista.
 
 Na classe Main ficou a parte lógica do projeto onde foi utilizado um loop do while juntamente com o condicional switch
